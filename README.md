@@ -30,7 +30,7 @@ A classe `UiMain` espera receber, via argumentos de programa, a configuração i
 - valor = número correto da solução (1–9) para aquela posição
 - fixed = true para célula dada (pré-preenchida) e false para célula vazia
 
-Abaixo fornecemos um exemplo pronto de tabuleiro com uma solução padrão e um conjunto de dicas (células fixas). Basta copiar todos os argumentos exatamente como estão.
+Abaixo existe um exemplo pronto de tabuleiro com uma solução padrão e um conjunto de dicas (células fixas). Basta copiar todos os argumentos exatamente como estão.
 
 ### Opção A) Rodar com classes já compiladas (pasta out/production/Sudoku)
 No Prompt de Comando (CMD) do Windows, a partir da pasta raiz do projeto:
